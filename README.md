@@ -15,3 +15,8 @@ No arquivo main.py é chamada a classe Scraping e lá tem a chamada das funçõe
 scrap.main('SP', scrap) # retorna somente os dados de SP 
 scrap.main('', scrap) # retorna os dados de todas as UFs
 ```
+
+## Exemplo de retorno
+```
+Exemplo dos dados no arquivo SP.jsonl
+```
